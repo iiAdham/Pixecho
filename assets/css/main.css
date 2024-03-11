@@ -409,6 +409,7 @@ footer i {
   border-radius: 50%;
   transition: background-color 0.7s;
 }
+
 footer i:hover {
   background-color: black;
 }
